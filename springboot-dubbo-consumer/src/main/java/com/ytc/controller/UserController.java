@@ -22,6 +22,7 @@ public class UserController {
 
     public List<User> queryUserList(){
         System.out.println("123");
+        System.out.println("456");
         List<User> users = userService.queryUserList();
         return users;
     }
