@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49fc7a27-2833-4413-a856-b0a9a1dbd0e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/com/ytc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/ytc/SpringbootDubboConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/ytc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/ytc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/ytc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/test/java/com/ytc/SpringbootDubboConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/SpringbootDubboProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/resources/mapping/confg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/resources/mapping/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/test/java/com/ytc/SpringbootDubboProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\imp\Git\Git\cmd\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/ytc/service/UserServiceImpl.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1hzCUdRKpV5gD3btLZPEIlk6Vqa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.5505747" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ytc.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\yz\workspace\springboot-dubbo-consumer\src\main\java\com\ytc" />
+      <recent name="E:\yz\workspace\springboot-dubbo-provider\src\main\java\com\ytc\mapper" />
+      <recent name="E:\yz\workspace\springboot-dubbo-provider\src\main\resources\mapping\mapper" />
+      <recent name="E:\yz\workspace\springboot-dubbo-provider\src\main\resources\mapping" />
+      <recent name="E:\yz\workspace\dubbo-api\src\main\java\com\ytc\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootDubboProviderApplication">
+    <configuration name="SpringbootDubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootDubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootDubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49fc7a27-2833-4413-a856-b0a9a1dbd0e3" name="Default Changelist" comment="" />
+      <created>1601004550264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601004550264</updated>
+      <workItem from="1601004552638" duration="4243000" />
+      <workItem from="1601266799293" duration="594000" />
+      <workItem from="1601278594280" duration="3541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1601006548903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601006548903" />
+    <state x="528" y="110" key="FileChooserDialogImpl" timestamp="1601279882204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601279882204" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1601282473334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601282473334" />
+    <state x="222" y="18" key="new project wizard" timestamp="1601007849611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="18" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601007849611" />
+  </component>
+</project>
